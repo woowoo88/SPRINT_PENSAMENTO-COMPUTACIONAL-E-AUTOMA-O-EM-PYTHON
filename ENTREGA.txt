@@ -13,7 +13,7 @@ VIDEO NO YOUTUBE (NAO LISTADO)
 PENDENTE
 
 REPOSITORIO GITHUB
-https://github.com/woowoo88/sprint2-python
+https://github.com/woowoo88/SPRINT2_PYTHON
 
 QUADRO KANBAN PUBLICO
-https://github.com/woowoo88/sprint2-python/blob/main/KANBAN.md
+https://github.com/woowoo88/SPRINT2_PYTHON/blob/main/KANBAN.md
