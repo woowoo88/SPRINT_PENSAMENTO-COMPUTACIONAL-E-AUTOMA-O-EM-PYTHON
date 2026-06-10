@@ -16,21 +16,19 @@ Atualizacao: 10/06/2026
 
 | ID | Tarefa | Responsavel | Criterio de aceite |
 |---|---|---|---|
-| CG-12 | Publicar quadro Kanban | Equipe | Link publico testado |
 | CG-13 | Gravar demonstracao | Equipe | Video com no maximo 5 min |
-| CG-14 | Revisar links finais | Equipe | Abertura em janela anonima |
 
 ## Em andamento
 
 | ID | Tarefa | Responsavel | Inicio |
 |---|---|---|---|
-| CG-10 | Preparar entrega no GitHub | Equipe | 10/06/2026 |
+| CG-14 | Revisar links finais | Equipe | 10/06/2026 |
 
 ## Em revisao
 
 | ID | Tarefa | Responsavel | Evidencia |
 |---|---|---|---|
-| CG-09 | Revisar README e arquitetura | Equipe | Documentacao no repositorio |
+| - | Nenhuma tarefa no momento | - | - |
 
 ## Concluido
 
@@ -44,7 +42,10 @@ Atualizacao: 10/06/2026
 | CG-06 | Implementar tarifacao | Equipe | 10/06/2026 |
 | CG-07 | Implementar previsao de demanda | Equipe | 10/06/2026 |
 | CG-08 | Criar dashboard e testes | Equipe | 10/06/2026 |
+| CG-09 | Revisar README e arquitetura | Equipe | 10/06/2026 |
+| CG-10 | Preparar entrega no GitHub | Equipe | 10/06/2026 |
 | CG-11 | Preencher RMs no arquivo de entrega | Equipe | 10/06/2026 |
+| CG-12 | Publicar quadro Kanban | Equipe | 10/06/2026 |
 
 ## Politica do quadro
 
