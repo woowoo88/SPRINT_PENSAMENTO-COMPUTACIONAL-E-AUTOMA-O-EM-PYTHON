@@ -104,6 +104,9 @@ flowchart LR
 
 Mais detalhes estao em [docs/ARQUITETURA.md](docs/ARQUITETURA.md).
 
+Os casos reproduziveis para avaliacao estao em
+[docs/CENARIOS_DE_TESTE.md](docs/CENARIOS_DE_TESTE.md).
+
 ## Estrutura
 
 ```text
