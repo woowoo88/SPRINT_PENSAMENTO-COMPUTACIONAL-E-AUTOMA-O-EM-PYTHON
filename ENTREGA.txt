@@ -1,0 +1,19 @@
+SPRINT 2 - GOODWE CHALLENGE
+CHARGEGRID INTELLIGENCE
+
+INTEGRANTES
+
+Angela Sousa Takezawa - RM: 570797
+Mateus de Oliveira Fernandes Neves - RM: 572431
+Paulo Henrique Lira Bilac de Araujo - RM: 569496
+Pedro Soares de Souza - RM: 571285
+Olavo Dadario Vianna Barreto - RM: 569272
+
+VIDEO NO YOUTUBE (NAO LISTADO)
+PENDENTE
+
+REPOSITORIO GITHUB
+https://github.com/woowoo88/SPRINT_PENSAMENTO-COMPUTACIONAL-E-AUTOMA-O-EM-PYTHON
+
+QUADRO KANBAN PUBLICO
+https://github.com/woowoo88/SPRINT_PENSAMENTO-COMPUTACIONAL-E-AUTOMA-O-EM-PYTHON/blob/main/KANBAN.md

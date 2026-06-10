@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ChargeGrid Intelligence</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">GOODWE CHALLENGE · PROVA DE CONCEITO</p>
+      <h1>ChargeGrid <span>Intelligence</span></h1>
+      <p class="subtitle">Orquestração inteligente de recarga comercial</p>
+    </div>
+    <div class="status"><i></i> CSMS conectado</div>
+  </header>
+
+  <main>
+    <section class="panel controls">
+      <div class="section-title">
+        <div><small>01</small><h2>Cenário energético</h2></div>
+        <button id="simulate">Executar simulação</button>
+      </div>
+      <div class="grid inputs">
+        <label>Demanda contratada (kW)<input id="contract_kw" type="number"></label>
+        <label>Consumo do prédio (kW)<input id="building_kw" type="number"></label>
+        <label>Geração solar (kW)<input id="solar_kw" type="number"></label>
+        <label>Suporte BESS (kW)<input id="bess_kw" type="number"></label>
+        <label>Horário<input id="hour" type="number" min="0" max="23"></label>
+        <label>Duração da sessão (h)<input id="duration_hours" type="number" step="0.5"></label>
+      </div>
+    </section>
+
+    <section class="metrics" id="metrics"></section>
+
+    <section class="grid columns">
+      <article class="panel">
+        <div class="section-title"><div><small>02</small><h2>Despacho DLM</h2></div></div>
+        <div id="alerts"></div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Ponto</th><th>Protocolo</th><th>Prioridade</th><th>Solicitado</th><th>Alocado</th><th>Status</th></tr></thead>
+            <tbody id="allocations"></tbody>
+          </table>
+        </div>
+      </article>
+
+      <article class="panel forecast-panel">
+        <div class="section-title"><div><small>03</small><h2>Previsão de demanda</h2></div></div>
+        <p class="hint">Regressão linear treinada com histórico sintético de 56 dias.</p>
+        <div id="forecast" class="chart"></div>
+        <div class="legend"><span></span> demanda prevista por hora</div>
+      </article>
+    </section>
+
+    <section class="panel pillars">
+      <div><b>DLM</b><span>limita picos e prioriza cargas</span></div>
+      <div><b>OCPP</b><span>normaliza múltiplas versões</span></div>
+      <div><b>Billing</b><span>calcula tarifa e receita</span></div>
+      <div><b>IA</b><span>antecipa a curva de demanda</span></div>
+    </section>
+  </main>
+  <footer>Equipe 04 · FIAP · Ciências da Computação · 2026</footer>
+  <script src="/app.js"></script>
+</body>
+</html>
