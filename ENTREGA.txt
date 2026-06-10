@@ -13,7 +13,7 @@ VIDEO NO YOUTUBE (NAO LISTADO)
 PENDENTE
 
 REPOSITORIO GITHUB
-https://github.com/woowoo88/SPRINT_PENSAMENTO-COMPUTACIONAL-E-AUTOMA-O-EM-PYTHON
+https://github.com/woowoo88/sprint2-python
 
 QUADRO KANBAN PUBLICO
-https://github.com/woowoo88/SPRINT_PENSAMENTO-COMPUTACIONAL-E-AUTOMA-O-EM-PYTHON/blob/main/KANBAN.md
+https://github.com/woowoo88/sprint2-python/blob/main/KANBAN.md
